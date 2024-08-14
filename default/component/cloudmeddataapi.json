@@ -36,7 +36,7 @@
           "id": 2163,
           "title": "Swagger",
           "scoreSuccess": "unknown",
-          "isOptional": true,
+          "isOptional": false,
           "details": "..."
         },
         {
