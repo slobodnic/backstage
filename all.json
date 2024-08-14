@@ -2,7 +2,7 @@
     {
       "entityRef": {
         "kind": "api",
-        "name": "hello-world"
+        "name": "CM-1.0-Data-api"
       },
       "scorePercent": 50,
       "scoreLabel": "Yellow",
@@ -44,7 +44,7 @@
     {
       "entityRef": {
         "kind": "system",
-        "name": "non-valid-system"
+        "name": "CM-1.0"
       },
       "generatedDateTimeUtc": "2021-07-22 10:00",
       "scorePercent": 20,
@@ -53,8 +53,8 @@
     },
     {
       "entityRef": {
-        "kind": "system",
-        "name": "audio-playback"
+        "kind": "component",
+        "name": "CloudMedDataAPI"
       },
       "generatedDateTimeUtc": "2021-07-22 10:00",
       "scorePercent": 57,
@@ -361,8 +361,8 @@
     },
     {
       "entityRef": {
-        "kind": "system",
-        "name": "podcast"
+        "kind": "component",
+        "name": "CM-1.0-Azure-Functions"
       },
       "generatedDateTimeUtc": "2021-07-22 10:00",
       "scorePercent": 57,
